@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550305118099",
+    "project_id": "altarlink-fa21c",
+    "storage_bucket": "altarlink-fa21c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550305118099:android:2003088473d517e1ba9a66",
+        "android_client_info": {
+          "package_name": "com.example.altarlink4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbZBwMu-LzGB03XppGXdHfcWP23Ryo4Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
